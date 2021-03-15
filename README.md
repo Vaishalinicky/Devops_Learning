@@ -8,22 +8,22 @@ PythonBasicCode
 2. Below files will create pattern as shown and depends on how many rows do you want.
 
 A. StartStack01.py
-*
-**
-***
-****
-*****
+ *
+ **
+ ***
+ ****
+ *****
 
 B.StartStack01_reverse
 
-* * * * * * * *
-* * * * * * *
-* * * * * *
-* * * * *
-* * * *
-* * *
-* *
-*
+ * * * * * * * *
+ * * * * * * *
+ * * * * * *
+ * * * * *
+ * * * *
+ * * *
+ * *
+ *
        
 C. StartStack02
      *
@@ -44,11 +44,11 @@ D. StartStack02_reverse
        
 E. StartStack03
 
-     *
-    ***
-   *****
-  *******
- *********
+      *
+     ***
+    *****
+   *******
+  *********
 
 F.StartStack03_reverse
  * * * * * * *
